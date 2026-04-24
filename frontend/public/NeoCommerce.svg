@@ -1,0 +1,46 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon -->
+  <rect x="20" y="25" width="70" height="70" rx="18" fill="#111827"/>
+  
+  <!-- Shopping Bag -->
+  <path d="M42 52H68L64 82H46L42 52Z" fill="white"/>
+  <path d="M50 52V46C50 39 55 34 60 34C65 34 70 39 70 46V52"
+        stroke="white"
+        stroke-width="4"
+        stroke-linecap="round"/>
+
+  <!-- N inside bag -->
+  <path d="M50 75V58L61 72V58"
+        stroke="#60A5FA"
+        stroke-width="4"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- Brand Text -->
+  <text x="115"
+        y="68"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="42"
+        font-weight="700"
+        fill="#111827">
+    Neo
+  </text>
+
+  <text x="195"
+        y="68"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="42"
+        font-weight="700"
+        fill="#2563EB">
+    Commerce
+  </text>
+
+  <text x="118"
+        y="92"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        fill="#6B7280"
+        letter-spacing="2">
+    SHOP SMART • LIVE BETTER
+  </text>
+</svg>
