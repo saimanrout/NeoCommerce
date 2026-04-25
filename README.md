@@ -187,18 +187,6 @@ http://localhost:5001
 - Admin Product CRUD
 - Responsive UI
 
----
-
-## 📸 Screenshots
-
-Add screenshots here:
-
-```md
-Home Page
-Product Page
-Cart Page
-Admin Dashboard
-```
 
 ---
 
